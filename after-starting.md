@@ -1,15 +1,5 @@
 # Useful links once you've started
 
-## Internal Guardian Pages
-* [Spike](http://spike/) - Noticeboard, canteen food, HR policies, lots more
-* [GEE/Taleo](https://gnm.taleo.net/) - personal development
-* [Oracle Self Service](http://oracle.dmz.gnl:8079/OA_HTML/AppsLogin) - payslips and holiday booking
-
-## Useful Docs
-* [Department admin guide](https://docs.google.com/document/d/1ErsZUEL0ELiGUYXHbEWlm0mLGY7lZoAnzF4IXWqnPG0/)
-* [Digital team career progression framework](https://docs.google.com/spreadsheets/d/1e66TuObMmYGcZeGqIl-BdGjHj_cPb1SDA2s_F3iNz34/edit#gid=1) 
-* [Socials/Events/Activities](https://docs.google.com/document/d/1aHFEtlXG0f-R12S0SPBzLXa1JnRpIJYjactHaYjmyGk/)
-
 ## Development tools
 * [TeamCity](https://teamcity.gutools.co.uk) - shared teamcity continuous integration system - see how your build is getting on.
 * [CircleCI](https://circleci.com/dashboard) - shared circleci continuous integration system - login with github
@@ -20,11 +10,3 @@
 ## Software
 * Teleporter [Firefox](https://s3-eu-west-1.amazonaws.com/gustaf-dist/composer/index.html), [Chrome](https://chrome.google.com/webstore/detail/guardian-staff-extension/hgdefnifioidkaphoeplpjinodnbbmfg?authuser=0) - browser extension for jumping between guardian content in the Content API/Composer/Frontend/Ophan and more
 * [Prism/Marauder](https://github.com/guardian/prism/tree/master/marauder) - For finding instances in AWS
-
-## Email lists
-* dig.dev - is for general department wide messages - ask Sidel Stewart or Iona McKendrick to be added to this list
-* dig.dev.software - is for software related messages - email IT Servicedesk and ask to be added to this list
-* 2FA_force - staff for whom two factor authentication will be enforced
-* 
-## Other
-* [Free Guardian Membership](https://membership.theguardian.com/join/staff) - including a guardian canvas bag!
